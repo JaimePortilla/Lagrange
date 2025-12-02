@@ -1,19 +1,36 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Acerca de
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+# Acerca de Esta Página
 
-### Getting Started
+Esta página ha sido creada por **Jaime Portilla Pérez** como un blog dedicado a las noticias, guías y análisis del videojuego competitivo **Valorant**.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+## Sobre el Diseño
 
-### Example Content
+El sitio utiliza el tema **Lagrange**, un tema minimalista y limpio diseñado para Jekyll que se enfoca en el contenido sin distracciones. Este tema fue elegido por su simplicidad, velocidad y compatibilidad con GitHub Pages.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+## Contenido
 
-### Questions?
+En este blog encontrarás:
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+- **Parches y Actualizaciones**: Análisis de los cambios más recientes en Valorant
+- **Guías de Juego**: Consejos para mejorar tu rango y habilidades
+- **Noticias del Esports**: Cobertura de torneos profesionales y eventos importantes
+- **Nuevo Contenido**: Información sobre nuevos agentes y características del juego
+- **Estrategia**: Tips sobre economía, rotaciones y coordinación en equipo
+
+## Tecnología
+
+- **Generador de Sitios**: [Jekyll](https://jekyllrb.com/)
+- **Tema**: [Lagrange](https://github.com/LeNPaul/Lagrange)
+- **Hospedaje**: GitHub Pages
+- **Lenguaje**: Markdown
+
+## Contacto
+
+---
+
+*Última actualización: Diciembre 2025*
