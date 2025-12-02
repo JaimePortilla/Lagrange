@@ -20,4 +20,4 @@ Los equipos top mundiales como Sentinels, FaZe Clan, Fnatic y LOUD compiten fero
 Hasta el momento, hemos visto jugadas espectaculares con clutches de 1 vs 5, utilización perfecta del ult de Jett y round wins imposibles. Los equipos están mostrando estrategias innovadoras que están redefiniendo cómo se juega Valorant profesionalmente.
 
 
-![alt text](../assets/img/economia.png)
+![Champions](../assets/img/champions.png)
