@@ -23,7 +23,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           'Valorant'
 description:	       'Informacion actualizaciones Valorant'
 author:              'Jaime Portilla Pérez'
-
+baseurl: "/lagrange"
+url: "https://jaimeportilla.github.io"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
